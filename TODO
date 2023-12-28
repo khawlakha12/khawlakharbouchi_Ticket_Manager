@@ -1,0 +1,21 @@
+* Travailler en OOP.
+
+* Authentification (login, logout, register).
+
+* Création de tickets.
+
+* Attribution de tickets.
+
+* Tag de tickets.
+
+* Status des tickets.
+
+* Priorisation des tickets.
+
+* Filtre de tickets (la totalité, ceux créé par la personne, ceux qui sont assigné à la personne).
+
+* Un rapport many-to-many entre l'utilisateur et le ticket.
+
+* Une fiche détail du ticket avec un espace commentaire.
+
+* Index avec communication AJAX.
